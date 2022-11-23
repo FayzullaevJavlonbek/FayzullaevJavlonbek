@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Javlonbek Fayzullaev
-- 👀 I’m interested in creating new conviences for people's lives
-- 🌱 I’m currently learning .Net at Najot Talim
-- 💞️ I’m looking to collaborate with small business
+- 👀 I’m interested in football
+- 🌱 I've started learning programming at Astrum IT Academy a year ago
+- 🌱 I’m currently learning .Net at Najot Talim for about 4 months
+- 💞️ I’m looking to collaborate with team in software development sphere
 - 📫 How to reach me https://www.linkedin.com/in/javlonbek-fayzullaev-776041245/ 
+- - 📫 How to reach me t.me//J_Fayzullaev
 
 <!---
 FayzullaevJavlonbek/FayzullaevJavlonbek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
